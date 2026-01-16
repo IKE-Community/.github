@@ -6,8 +6,14 @@ Within this substrate, any knowledge structure can be represented as traversable
 
 This matters because knowledge systems fail silently. Clinical decision support malfunctions—where alerts stop firing because an identifier changed upstream, or rules break from untracked edits—[affect virtually every healthcare organization](https://pubmed.ncbi.nlm.nih.gov/27026616/). These aren't edge cases; they're version coordination failures that current tools can't prevent or detect. STAMP versioning makes the invisible visible.
 
-IKE provides open-source tooling, specifications, and collaborative infrastructure for building knowledge systems that evolve safely. Our work builds on and implements HL7 standards including [Tinkar](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=573) (Terminology Knowledge Architecture) and [ANF](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=523) (Analysis Normal Form). If you're working on terminology services, clinical decision support, or any domain where knowledge changes and correctness matters, you're in the right place.
+As AI systems increasingly depend on structured knowledge—for training data, retrieval-augmented generation, and decision grounding—curation quality becomes critical infrastructure. Flawed knowledge at scale doesn't fail gracefully—it fails confidently. IKE enables principled knowledge curation at scale: expert judgment captured in version-controlled, machine-processable form, so human expertise and modern computation reinforce each other rather than working at cross-purposes.
+
+IKE provides open-source tooling, specifications, and collaborative infrastructure for building knowledge systems that evolve safely. Our work builds on and implements HL7 standards including [Tinkar](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=573) (Terminology Knowledge Architecture) and [ANF](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=523) (Analysis Normal Form). Whether you're coming from ontology engineering, knowledge graph development, or clinical terminology management, if you're working on systems where knowledge changes and correctness matters, you're in the right place.
 
 ## Get Involved
 
 Join the conversation on [IKE Zulip](https://ike.zulipchat.com)—an open-source, threaded chat platform where discussions stay organized and searchable over time. Whether you're asking questions, proposing ideas, or collaborating on implementations, Zulip is where the community connects.
+
+---
+
+**Topics:** ontology · knowledge graphs · description logic · terminology management · clinical informatics · SNOMED CT · LOINC · RxNorm · EL++ · OWL · clinical decision support · version control · STAMP · healthcare AI
