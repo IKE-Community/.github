@@ -16,4 +16,4 @@ Join the conversation on [IKE Zulip](https://ike.zulipchat.com)—an open-source
 
 ---
 
-**Topics:** ontology · knowledge graphs · description logic · terminology management · clinical informatics · SNOMED CT · LOINC · RxNorm · EL++ · OWL · clinical decision support · version control · STAMP · healthcare AI
+**Topics:** knowledge graphs · description logic · terminology management · clinical informatics · SNOMED CT · LOINC · RxNorm · EL++ · clinical decision support · version control · STAMP · ontology · healthcare AI · OWL 
