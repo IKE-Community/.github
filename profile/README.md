@@ -8,7 +8,7 @@ This matters because knowledge systems fail silently. Clinical decision support 
 
 As AI systems increasingly depend on structured knowledge—for training data, retrieval-augmented generation, and decision grounding—curation quality becomes critical infrastructure. Flawed knowledge at scale fails *confidently*—and the burden of catching it falls to you. IKE enables principled knowledge curation at scale: expert judgment captured in version-controlled, machine-processable form, so human expertise and modern computation reinforce each other rather than working at cross-purposes.
 
-IKE grew out of the [Tinkar](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=573) (Terminology Knowledge Architecture) and [ANF](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=523) (Analysis Normal Form) efforts published through HL7—and provides a community for their continued evolution and open-source implementation. Whether you're coming from ontology engineering, knowledge graph development, or clinical terminology management, if you're working on systems where knowledge changes and correctness matters, you're in the right place.
+IKE grew out of the [Tinkar](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=573) (Terminology Knowledge Architecture) and [ANF](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=523) (Analysis Normal Form) efforts published through HL7—and provides a community for their continued evolution and open-source implementation. Whether you're coming from knowledge graph development, clinical terminology management, or ontology engineering, if you're working on systems where knowledge changes and correctness matters, you're in the right place.
 
 ## Get Involved
 
