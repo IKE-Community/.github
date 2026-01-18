@@ -12,7 +12,7 @@ IKE grew out of the [Tinkar](https://www.hl7.org/implement/standards/product_bri
 
 ## Get Involved
 
-Join the conversation on [IKE Zulip](https://ike.zulipchat.com)—an open-source, threaded chat platform where discussions stay organized and searchable over time. Whether you're asking questions, proposing ideas, or collaborating on implementations, Zulip is where the community connects.
+Join the conversation on [IKE&#8217;s Zulip](https://ike.zulipchat.com)—an open-source, threaded chat platform where discussions stay organized and searchable over time. Whether you're asking questions, proposing ideas, or collaborating on implementations, Zulip is where the community connects.
 
 ---
 
